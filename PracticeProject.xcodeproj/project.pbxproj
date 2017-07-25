@@ -13,6 +13,7 @@
 		841565761F20C6CF00FD2B78 /* PracticeProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 841565741F20C6CF00FD2B78 /* PracticeProject.xcdatamodeld */; };
 		841565781F20C6CF00FD2B78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 841565771F20C6CF00FD2B78 /* Assets.xcassets */; };
 		8415657B1F20C6CF00FD2B78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 841565791F20C6CF00FD2B78 /* LaunchScreen.storyboard */; };
+		84C564B61F261531001823CA /* SubStory.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C564B41F261531001823CA /* SubStory.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		841565771F20C6CF00FD2B78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8415657A1F20C6CF00FD2B78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8415657C1F20C6CF00FD2B78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84C564B51F261531001823CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/SubStory.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8415656D1F20C6CF00FD2B78 /* AppDelegate.swift */,
 				8415656F1F20C6CF00FD2B78 /* ViewController.swift */,
 				841565711F20C6CF00FD2B78 /* Main.storyboard */,
+				84C564B41F261531001823CA /* SubStory.storyboard */,
 				841565771F20C6CF00FD2B78 /* Assets.xcassets */,
 				841565791F20C6CF00FD2B78 /* LaunchScreen.storyboard */,
 				8415657C1F20C6CF00FD2B78 /* Info.plist */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8415657B1F20C6CF00FD2B78 /* LaunchScreen.storyboard in Resources */,
+				84C564B61F261531001823CA /* SubStory.storyboard in Resources */,
 				841565781F20C6CF00FD2B78 /* Assets.xcassets in Resources */,
 				841565731F20C6CF00FD2B78 /* Main.storyboard in Resources */,
 			);
@@ -162,6 +166,14 @@
 				8415657A1F20C6CF00FD2B78 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		84C564B41F261531001823CA /* SubStory.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84C564B51F261531001823CA /* Base */,
+			);
+			name = SubStory.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -303,6 +315,7 @@
 				841565811F20C6CF00FD2B78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
