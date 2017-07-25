@@ -24,7 +24,7 @@
                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="12星座解析" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tq6-oG-l0j">
                                     <rect key="frame" x="13" y="12" width="344" height="21"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    <fontDescription key="fontDescription" style="UICTFontTextStyleCallout"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="26"/>
                                     <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <nil key="highlightedColor"/>
                                 </label>
@@ -882,8 +882,8 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="bgb-px-VQo"/>
+        <segue reference="FFx-X6-vPA"/>
         <segue reference="jfp-xn-8dL"/>
-        <segue reference="gjr-0T-wM2"/>
     </inferredMetricsTieBreakers>
     <color key="tintColor" red="0.90196078430000004" green="0.36862745099999999" blue="0.1843137255" alpha="1" colorSpace="calibratedRGB"/>
 </document>
