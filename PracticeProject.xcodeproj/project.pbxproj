@@ -102,6 +102,7 @@
 				TargetAttributes = {
 					841565691F20C6CF00FD2B78 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = WKQT7PPJT9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -276,6 +277,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WKQT7PPJT9;
 				INFOPLIST_FILE = PracticeProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.paggieli.PracticeProject;
@@ -288,6 +290,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WKQT7PPJT9;
 				INFOPLIST_FILE = PracticeProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.paggieli.PracticeProject;
